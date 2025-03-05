@@ -1,0 +1,23 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "dev_playground",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "dev_playground",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "alex.sky_hdri_001#28450"
+      ],
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/dev_playground.vmap",
+        "ParentPackage": "alex.racing_game_test"
+      }
+    }
+  }
+}
