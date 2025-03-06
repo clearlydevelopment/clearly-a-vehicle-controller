@@ -1,0 +1,820 @@
+{
+  "RootObject": {
+    "__guid": "b0b8a75a-71d4-48a8-b1a3-9991902b7277",
+    "Flags": 0,
+    "Name": "Clearly A Car",
+    "Position": "-3241.888,-7548.973,212.0821",
+    "Tags": "vehicle,car",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "Sandbox.ModelRenderer",
+        "__guid": "2eaca292-0272-40b9-9f8d-f499a4b9904c",
+        "BodyGroups": 18446744073709551615,
+        "CreateAttachments": false,
+        "MaterialGroup": null,
+        "MaterialOverride": null,
+        "Model": "pr/gta5_car_adder.vmdl",
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "RenderOptions": {
+          "GameLayer": true,
+          "OverlayLayer": false,
+          "BloomLayer": false,
+          "AfterUILayer": false
+        },
+        "RenderType": "On",
+        "Tint": "1,0,0,1"
+      },
+      {
+        "__type": "Sandbox.ModelCollider",
+        "__guid": "18d55ed5-9b20-4a67-8d9d-9501bb0ab98f",
+        "Friction": null,
+        "IsTrigger": false,
+        "Model": "pr/gta5_car_adder.vmdl",
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "OnObjectTriggerEnter": null,
+        "OnObjectTriggerExit": null,
+        "OnTriggerEnter": null,
+        "OnTriggerExit": null,
+        "Static": false,
+        "Surface": "data/physics/car.surface",
+        "SurfaceVelocity": "0,0,0"
+      },
+      {
+        "__type": "Sandbox.Rigidbody",
+        "__guid": "b14c953e-da9e-4b46-aa72-11e807758ab7",
+        "AngularDamping": 0,
+        "Gravity": true,
+        "LinearDamping": 0,
+        "Locking": {
+          "X": false,
+          "Y": false,
+          "Z": false,
+          "Pitch": false,
+          "Yaw": false,
+          "Roll": false
+        },
+        "MassCenterOverride": "0,0,0",
+        "MassOverride": 0,
+        "MotionEnabled": true,
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "OverrideMassCenter": false,
+        "RigidbodyFlags": 0,
+        "StartAsleep": false
+      },
+      {
+        "__type": "RacingGame.Car",
+        "__guid": "90080fc2-f27e-4375-897a-eba5f9387c63",
+        "AccelerationRate": 1,
+        "BrakingRate": 1.5,
+        "CameraTarget": {
+          "_type": "gameobject",
+          "go": "8d6baa2d-d233-4e3f-a146-c09de55ba361"
+        },
+        "DecelerationRate": 0.2,
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "TerminalVelocity": 1300,
+        "Torque": 24000
+      },
+      {
+        "__type": "HapticController",
+        "__guid": "82b299b4-d5a8-4f39-b7f1-823e86cf428e",
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null
+      },
+      {
+        "__type": "KnockOnContact",
+        "__guid": "34c15905-0cbe-4a8c-8971-23de3d7e94f0",
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "Rigidbody": {
+          "_type": "component",
+          "component_id": "b14c953e-da9e-4b46-aa72-11e807758ab7",
+          "go": "b0b8a75a-71d4-48a8-b1a3-9991902b7277",
+          "component_type": "Rigidbody"
+        },
+        "Strength": 1000
+      },
+      {
+        "__type": "ColorPicker",
+        "__guid": "242ac28c-53e0-4d7e-9aaf-42ff47ddb95b",
+        "__enabled": false,
+        "Colors": [
+          "1,0,0,1",
+          "1,1,0,1",
+          "0,1,1,1",
+          "1,0,1,1",
+          "0,0.45882,1,1"
+        ],
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null
+      },
+      {
+        "__type": "Sandbox.BoxCollider",
+        "__guid": "d7b7dc55-3453-4874-a331-4b42b45010f4",
+        "__enabled": false,
+        "Center": "5,0,8",
+        "Friction": null,
+        "IsTrigger": false,
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "OnObjectTriggerEnter": null,
+        "OnObjectTriggerExit": null,
+        "OnTriggerEnter": null,
+        "OnTriggerExit": null,
+        "Scale": "170,75,5",
+        "Static": false,
+        "Surface": null,
+        "SurfaceVelocity": "0,0,0"
+      }
+    ],
+    "Children": [
+      {
+        "__guid": "8d6baa2d-d233-4e3f-a146-c09de55ba361",
+        "Flags": 0,
+        "Name": "CameraTarget",
+        "Position": "-13.86576,-0.000001648839,56.32022",
+        "Enabled": true
+      },
+      {
+        "__guid": "c91f16fe-90d2-4520-b20b-7ec2eb660cbf",
+        "Flags": 0,
+        "Name": "taxicarwheel (1)",
+        "Position": "-56,-32,13.28452",
+        "Scale": "0.4,0.4,0.4",
+        "Tags": "wheel",
+        "Enabled": true,
+        "Components": [
+          {
+            "__type": "Wheel",
+            "__guid": "b6421184-986e-4647-a184-f6be76790f52",
+            "ForwardFriction": {
+              "ExtremumSlip": 1,
+              "ExtremumValue": 20000,
+              "AsymptoteSlip": 2,
+              "AsymptoteValue": 10000,
+              "Stiffness": 1.2
+            },
+            "MaxSuspensionLength": 6,
+            "MinSuspensionLength": 4,
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "SideFriction": {
+              "ExtremumSlip": 1,
+              "ExtremumValue": 20000,
+              "AsymptoteSlip": 2,
+              "AsymptoteValue": 10000,
+              "Stiffness": 1.2
+            },
+            "SuspensionDamping": 140,
+            "SuspensionStiffness": 5000,
+            "WheelRadius": 12
+          }
+        ],
+        "Children": [
+          {
+            "__guid": "9cfd3a1a-4b80-41e1-9b49-d3f6b83b3dba",
+            "Flags": 0,
+            "Name": "Model",
+            "Enabled": true,
+            "Components": [
+              {
+                "__type": "Sandbox.ModelRenderer",
+                "__guid": "9778d57a-605f-489c-bd13-f6e28fb200c1",
+                "BodyGroups": 18446744073709551615,
+                "CreateAttachments": false,
+                "MaterialGroup": null,
+                "MaterialOverride": null,
+                "Model": "models/vidya/taxi/taxicarwheel.vmdl",
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "RenderOptions": {
+                  "GameLayer": true,
+                  "OverlayLayer": false,
+                  "BloomLayer": false,
+                  "AfterUILayer": false
+                },
+                "RenderType": "On",
+                "Tint": "1,1,1,1"
+              },
+              {
+                "__type": "Facepunch.WheelMover",
+                "__guid": "eb9f7000-0690-446d-9da5-e724fc267775",
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "ReverseRotation": false,
+                "Speed": 3.1415927,
+                "Target": {
+                  "_type": "component",
+                  "component_id": "b6421184-986e-4647-a184-f6be76790f52",
+                  "go": "c91f16fe-90d2-4520-b20b-7ec2eb660cbf",
+                  "component_type": "Wheel"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__guid": "4d3c031f-22af-414b-a959-8ea70af9929b",
+        "Flags": 0,
+        "Name": "taxicarwheel (3)",
+        "Position": "-56,32,13.28452",
+        "Scale": "0.4,0.4,0.4",
+        "Tags": "wheel",
+        "Enabled": true,
+        "Components": [
+          {
+            "__type": "Wheel",
+            "__guid": "a4d099ac-9694-4995-bb30-9f590127e1d3",
+            "ForwardFriction": {
+              "ExtremumSlip": 1,
+              "ExtremumValue": 20000,
+              "AsymptoteSlip": 2,
+              "AsymptoteValue": 10000,
+              "Stiffness": 1.2
+            },
+            "MaxSuspensionLength": 6,
+            "MinSuspensionLength": 4,
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "SideFriction": {
+              "ExtremumSlip": 1,
+              "ExtremumValue": 20000,
+              "AsymptoteSlip": 2,
+              "AsymptoteValue": 10000,
+              "Stiffness": 1.2
+            },
+            "SuspensionDamping": 140,
+            "SuspensionStiffness": 5000,
+            "WheelRadius": 12
+          }
+        ],
+        "Children": [
+          {
+            "__guid": "403c4603-c996-431d-a99f-2e8ac5ea0e3e",
+            "Flags": 0,
+            "Name": "Model",
+            "Enabled": true,
+            "Components": [
+              {
+                "__type": "Sandbox.ModelRenderer",
+                "__guid": "8529d33f-bd52-4343-8492-d8947f34a8d9",
+                "BodyGroups": 18446744073709551615,
+                "CreateAttachments": false,
+                "MaterialGroup": null,
+                "MaterialOverride": null,
+                "Model": "models/vidya/taxi/taxicarwheel.vmdl",
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "RenderOptions": {
+                  "GameLayer": true,
+                  "OverlayLayer": false,
+                  "BloomLayer": false,
+                  "AfterUILayer": false
+                },
+                "RenderType": "On",
+                "Tint": "1,1,1,1"
+              },
+              {
+                "__type": "Facepunch.WheelMover",
+                "__guid": "cbc60287-ace8-45ba-8ee6-a058ff74328e",
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "ReverseRotation": false,
+                "Speed": 3.1415927,
+                "Target": {
+                  "_type": "component",
+                  "component_id": "a4d099ac-9694-4995-bb30-9f590127e1d3",
+                  "go": "4d3c031f-22af-414b-a959-8ea70af9929b",
+                  "component_type": "Wheel"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__guid": "21ff8b78-c9a3-437b-951b-1166f9fa3164",
+        "Flags": 0,
+        "Name": "Front Axle",
+        "Tags": "wheel",
+        "Enabled": true,
+        "Components": [
+          {
+            "__type": "RacingGame.Steering",
+            "__guid": "c21457b6-35e7-4320-8b58-967b882c287b",
+            "MaxSteeringAngle": 20,
+            "Offset": "0,0,0",
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "SteeringSmoothness": 20,
+            "Wheels": [
+              {
+                "_type": "gameobject",
+                "go": "89440ac2-ee72-4e65-9ca9-e2180a71a38b"
+              },
+              {
+                "_type": "gameobject",
+                "go": "34b560b8-de54-41e8-83e1-24c23923adf4"
+              }
+            ]
+          }
+        ],
+        "Children": [
+          {
+            "__guid": "89440ac2-ee72-4e65-9ca9-e2180a71a38b",
+            "Flags": 0,
+            "Name": "FL",
+            "Position": "56,32,13.59365",
+            "Scale": "0.4,0.4,0.4",
+            "Enabled": true,
+            "Components": [
+              {
+                "__type": "Wheel",
+                "__guid": "adadbe4a-0075-4fb6-a085-b6d4eb981e09",
+                "ForwardFriction": {
+                  "ExtremumSlip": 1,
+                  "ExtremumValue": 20000,
+                  "AsymptoteSlip": 2,
+                  "AsymptoteValue": 10000,
+                  "Stiffness": 1.2
+                },
+                "MaxSuspensionLength": 6,
+                "MinSuspensionLength": 4,
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "SideFriction": {
+                  "ExtremumSlip": 1,
+                  "ExtremumValue": 20000,
+                  "AsymptoteSlip": 2,
+                  "AsymptoteValue": 10000,
+                  "Stiffness": 1.2
+                },
+                "SuspensionDamping": 140,
+                "SuspensionStiffness": 5000,
+                "WheelRadius": 12
+              }
+            ],
+            "Children": [
+              {
+                "__guid": "70842d14-ae45-4029-8724-a5ba5e584343",
+                "Flags": 0,
+                "Name": "Model",
+                "Enabled": true,
+                "Components": [
+                  {
+                    "__type": "Sandbox.ModelRenderer",
+                    "__guid": "20b96e19-8d05-44cd-a0a6-19270a7487a0",
+                    "BodyGroups": 18446744073709551615,
+                    "CreateAttachments": false,
+                    "MaterialGroup": null,
+                    "MaterialOverride": null,
+                    "Model": "models/vidya/taxi/taxicarwheel.vmdl",
+                    "OnComponentDestroy": null,
+                    "OnComponentDisabled": null,
+                    "OnComponentEnabled": null,
+                    "OnComponentFixedUpdate": null,
+                    "OnComponentStart": null,
+                    "OnComponentUpdate": null,
+                    "RenderOptions": {
+                      "GameLayer": true,
+                      "OverlayLayer": false,
+                      "BloomLayer": false,
+                      "AfterUILayer": false
+                    },
+                    "RenderType": "On",
+                    "Tint": "1,1,1,1"
+                  },
+                  {
+                    "__type": "Facepunch.WheelMover",
+                    "__guid": "b7c866a9-1f0c-41e9-a50f-c31263bc70fe",
+                    "OnComponentDestroy": null,
+                    "OnComponentDisabled": null,
+                    "OnComponentEnabled": null,
+                    "OnComponentFixedUpdate": null,
+                    "OnComponentStart": null,
+                    "OnComponentUpdate": null,
+                    "ReverseRotation": false,
+                    "Speed": 3.1415927,
+                    "Target": {
+                      "_type": "component",
+                      "component_id": "adadbe4a-0075-4fb6-a085-b6d4eb981e09",
+                      "go": "89440ac2-ee72-4e65-9ca9-e2180a71a38b",
+                      "component_type": "Wheel"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__guid": "34b560b8-de54-41e8-83e1-24c23923adf4",
+            "Flags": 0,
+            "Name": "FR",
+            "Position": "56,-32,13.59365",
+            "Scale": "0.4,0.4,0.4",
+            "Enabled": true,
+            "Components": [
+              {
+                "__type": "Wheel",
+                "__guid": "eafbc5fd-b336-4b7e-97fa-0ddec414a25d",
+                "ForwardFriction": {
+                  "ExtremumSlip": 1,
+                  "ExtremumValue": 20000,
+                  "AsymptoteSlip": 2,
+                  "AsymptoteValue": 10000,
+                  "Stiffness": 1.2
+                },
+                "MaxSuspensionLength": 6,
+                "MinSuspensionLength": 4,
+                "OnComponentDestroy": null,
+                "OnComponentDisabled": null,
+                "OnComponentEnabled": null,
+                "OnComponentFixedUpdate": null,
+                "OnComponentStart": null,
+                "OnComponentUpdate": null,
+                "SideFriction": {
+                  "ExtremumSlip": 1,
+                  "ExtremumValue": 20000,
+                  "AsymptoteSlip": 2,
+                  "AsymptoteValue": 10000,
+                  "Stiffness": 1.2
+                },
+                "SuspensionDamping": 140,
+                "SuspensionStiffness": 5000,
+                "WheelRadius": 12
+              }
+            ],
+            "Children": [
+              {
+                "__guid": "6f6309cc-68e8-4294-9d78-30af1d184ea7",
+                "Flags": 0,
+                "Name": "Model",
+                "Enabled": true,
+                "Components": [
+                  {
+                    "__type": "Sandbox.ModelRenderer",
+                    "__guid": "5857870b-7880-4779-aa78-bd328295301b",
+                    "BodyGroups": 18446744073709551615,
+                    "CreateAttachments": false,
+                    "MaterialGroup": null,
+                    "MaterialOverride": null,
+                    "Model": "models/vidya/taxi/taxicarwheel.vmdl",
+                    "OnComponentDestroy": null,
+                    "OnComponentDisabled": null,
+                    "OnComponentEnabled": null,
+                    "OnComponentFixedUpdate": null,
+                    "OnComponentStart": null,
+                    "OnComponentUpdate": null,
+                    "RenderOptions": {
+                      "GameLayer": true,
+                      "OverlayLayer": false,
+                      "BloomLayer": false,
+                      "AfterUILayer": false
+                    },
+                    "RenderType": "On",
+                    "Tint": "1,1,1,1"
+                  },
+                  {
+                    "__type": "Facepunch.WheelMover",
+                    "__guid": "8a7ce05b-3ef4-49cb-aef5-b9c89ef6fc64",
+                    "OnComponentDestroy": null,
+                    "OnComponentDisabled": null,
+                    "OnComponentEnabled": null,
+                    "OnComponentFixedUpdate": null,
+                    "OnComponentStart": null,
+                    "OnComponentUpdate": null,
+                    "ReverseRotation": false,
+                    "Speed": 3.1415927,
+                    "Target": {
+                      "_type": "component",
+                      "component_id": "eafbc5fd-b336-4b7e-97fa-0ddec414a25d",
+                      "go": "34b560b8-de54-41e8-83e1-24c23923adf4",
+                      "component_type": "Wheel"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__guid": "d34c02f2-e819-442f-88e4-50b2b512a0c8",
+        "Flags": 0,
+        "Name": "exhaust_smoke",
+        "Position": "-58.98318,2.133549,5.460239",
+        "Rotation": "0,0,-1,-0.00000004371139",
+        "Tags": "particles",
+        "Enabled": true,
+        "Components": [
+          {
+            "__type": "Sandbox.ParticleEffect",
+            "__guid": "2666cc1f-ffd8-4b92-8029-6cbee011214c",
+            "__version": 1,
+            "Alpha": {
+              "Type": "Curve",
+              "Evaluation": "Life",
+              "CurveA": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "in": -0.7169809,
+                  "out": 0.7169809,
+                  "mode": "Mirrored"
+                },
+                {
+                  "x": 0.21854475,
+                  "y": 0.087903224,
+                  "in": -0.16019809,
+                  "out": 0.16019809,
+                  "mode": "Mirrored"
+                },
+                {
+                  "x": 1,
+                  "y": 0,
+                  "in": 0,
+                  "out": 0,
+                  "mode": "Mirrored"
+                }
+              ],
+              "CurveB": [
+                {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "in": 0,
+                  "out": 0,
+                  "mode": "Mirrored"
+                }
+              ],
+              "Constants": "1,0,0,0"
+            },
+            "ApplyAlpha": true,
+            "ApplyColor": true,
+            "ApplyRotation": true,
+            "ApplyShape": true,
+            "Bounce": 1,
+            "Brightness": 5,
+            "Bumpiness": 0,
+            "Collision": false,
+            "CollisionIgnore": null,
+            "CollisionRadius": 1,
+            "Damping": 5,
+            "DieOnCollisionChance": 0,
+            "Force": true,
+            "ForceDirection": "1,0,0",
+            "ForceScale": 750,
+            "ForceSpace": "Local",
+            "Friction": 1,
+            "Gradient": {
+              "Type": "Range",
+              "Evaluation": "Particle",
+              "GradientA": {
+                "blend": "Linear",
+                "color": [
+                  {
+                    "t": 0.5,
+                    "c": "1,1,1,1"
+                  }
+                ],
+                "alpha": []
+              },
+              "GradientB": {
+                "blend": "Linear",
+                "color": [
+                  {
+                    "t": 0.5,
+                    "c": "1,1,1,1"
+                  }
+                ],
+                "alpha": []
+              },
+              "ConstantA": "0.71628,0.71628,0.71628,1",
+              "ConstantB": "1,1,1,1"
+            },
+            "Lifetime": 1,
+            "MaxParticles": 5000,
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "OnParticleCreated": null,
+            "OnParticleDestroyed": null,
+            "OrbitalForce": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "OrbitalPull": 0,
+            "PerParticleTimeScale": 1,
+            "Pitch": 0,
+            "PreWarm": 0,
+            "PushStrength": 0,
+            "Roll": {
+              "Type": "Range",
+              "Evaluation": "Particle",
+              "CurveA": [
+                {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "in": 0,
+                  "out": 0,
+                  "mode": "Mirrored"
+                }
+              ],
+              "CurveB": [
+                {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "in": 0,
+                  "out": 0,
+                  "mode": "Mirrored"
+                }
+              ],
+              "Constants": "0,360,0,0"
+            },
+            "Scale": {
+              "Type": "Curve",
+              "Evaluation": "Life",
+              "CurveA": {
+                "rangey": "0,100",
+                "frames": [
+                  {
+                    "x": 0,
+                    "y": 0.10000002,
+                    "in": 0,
+                    "out": 0,
+                    "mode": "Mirrored"
+                  },
+                  {
+                    "x": 1,
+                    "y": 0.5,
+                    "in": 0,
+                    "out": 0,
+                    "mode": "Mirrored"
+                  }
+                ]
+              },
+              "CurveB": [
+                {
+                  "x": 0.5,
+                  "y": 0.5,
+                  "in": 0,
+                  "out": 0,
+                  "mode": "Mirrored"
+                }
+              ],
+              "Constants": "10,60,0,0"
+            },
+            "SequenceId": 0,
+            "SequenceSpeed": 0.5,
+            "SequenceTime": 1,
+            "SheetSequence": true,
+            "Space": "Local",
+            "StartDelay": 0,
+            "StartVelocity": 0,
+            "Stretch": 0,
+            "TimeScale": 1,
+            "Tint": "1,1,1,1",
+            "Yaw": 0
+          },
+          {
+            "__type": "Sandbox.ParticleSpriteRenderer",
+            "__guid": "32fa450b-a098-4af8-9b87-ee800369513e",
+            "Additive": false,
+            "Alignment": "LookAtCamera",
+            "BlurAmount": 0.5,
+            "BlurOpacity": 0.91,
+            "BlurSpacing": 0.73,
+            "DepthFeather": 0,
+            "FaceVelocity": true,
+            "FogStrength": 1,
+            "LeadingTrail": true,
+            "Lighting": false,
+            "MotionBlur": false,
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "Opaque": false,
+            "Pivot": "0.5,0.5",
+            "RenderOptions": {
+              "GameLayer": true,
+              "OverlayLayer": false,
+              "BloomLayer": false,
+              "AfterUILayer": false
+            },
+            "RotationOffset": 0,
+            "Scale": 1,
+            "Shadows": false,
+            "SortMode": "Unsorted",
+            "Texture": "particles/smoke/smoke001.vtex"
+          },
+          {
+            "__type": "Sandbox.ParticleBoxEmitter",
+            "__guid": "6f134e25-12a3-42f7-9d71-f3ea7c8c10d8",
+            "Burst": 0,
+            "Delay": 0,
+            "DestroyOnEnd": false,
+            "Duration": 10,
+            "Loop": true,
+            "OnComponentDestroy": null,
+            "OnComponentDisabled": null,
+            "OnComponentEnabled": null,
+            "OnComponentFixedUpdate": null,
+            "OnComponentStart": null,
+            "OnComponentUpdate": null,
+            "OnEdge": false,
+            "Rate": 50,
+            "RateOverDistance": 0,
+            "Size": "8,8,8"
+          }
+        ]
+      }
+    ]
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "DontBreakAsTemplate": false,
+  "ResourceVersion": 1,
+  "__references": [
+    "facepunch.smoke001#45285",
+    "twinsd.gta5caradder#84193",
+    "vidyacontent.model-cctaxiwheel#85175"
+  ],
+  "__version": 1
+}

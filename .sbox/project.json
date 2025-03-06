@@ -1,47 +1,47 @@
 {
   "AssetBrowser.History": {
-    "Value": "[\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\\\\traffic_cone\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\\\\traffic_cone\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\\\\physics\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\\\\models\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\\\\physics\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\shaders\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\maps\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\\\\physics\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\models\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\\\\traffic_cone\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Libraries\\\\sbox-libwheel\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Libraries\\\\sbox-libwheel\\\\Code\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\maps\u0022]",
-    "Timeout": 1743807419,
+    "Value": "[\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\\\\traffic_cone\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\\\\traffic_cone\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\materials\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\\\\physics\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\maps\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\\\\props\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\prefabs\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\data\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\\\\digby_voyager\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\\\\cars\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Code\u0022,\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Code\\\\Components\u0022]",
+    "Timeout": 1743865958,
     "DeleteAt": 0
   },
   "AssetBrowser.HistoryIdx": {
-    "Value": "63",
-    "Timeout": 1743807419,
+    "Value": "40",
+    "Timeout": 1743865958,
     "DeleteAt": 0
   },
   "Window.SboxSceneEditor.Dock": {
-    "Value": "{\u0022floatingWindows\u0022:[],\u0022mainWrapper\u0022:{\u0022geometry\u0022:\u0022AdnQywADAAAAAAAAAAAAAAAABdIAAAMzAAAAAAAAAAAAAAXSAAADMwAAAAAAAAAABgAAAAAAAAAAAAAABdIAAAMz\u0022,\u0022splitter\u0022:{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneTreeWidget\u0022,\u0022name\u0022:\u0022Hierarchy\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022PanelInspectorWidget\u0022,\u0022name\u0022:\u0022UI Panels\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022items\u0022:[{\u0022items\u0022:[{\u0022currentIndex\u0022:1,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022GameFrame\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:scenes/dev.scene\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:prefabs/car.prefab\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:prefabs/props/traffic_cone/traffic_cone.prefab\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MainAssetBrowser\u0022,\u0022name\u0022:\u0022Asset Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MainCloudBrowser\u0022,\u0022name\u0022:\u0022Cloud Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022ConsoleWidget\u0022,\u0022name\u0022:\u0022Console\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MixerDock\u0022,\u0022name\u0022:\u0022Mixer\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022LibraryManagerDock\u0022,\u0022name\u0022:\u0022Library Manager\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAAD0wAAAjMA/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022Inspector\u0022,\u0022name\u0022:\u0022Inspector\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAADTAAAAbUA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAABmwAACjQA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}},\u0022toolWindowManagerStateFormat\u0022:1}",
-    "Timeout": 1743808726,
+    "Value": "{\u0022floatingWindows\u0022:[],\u0022mainWrapper\u0022:{\u0022geometry\u0022:\u0022AdnQywADAAAAAAAAAAAAAAAABdIAAAMzAAAAAAAAAAAAAAXSAAADMwAAAAAAAAAABgAAAAAAAAAAAAAABdIAAAMz\u0022,\u0022splitter\u0022:{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneTreeWidget\u0022,\u0022name\u0022:\u0022Hierarchy\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022PanelInspectorWidget\u0022,\u0022name\u0022:\u0022UI Panels\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022items\u0022:[{\u0022items\u0022:[{\u0022currentIndex\u0022:1,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022GameFrame\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022SceneDock\u0022,\u0022name\u0022:\u0022SceneDock:scenes/dev.scene\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MainAssetBrowser\u0022,\u0022name\u0022:\u0022Asset Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MainCloudBrowser\u0022,\u0022name\u0022:\u0022Cloud Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022ConsoleWidget\u0022,\u0022name\u0022:\u0022Console\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022MixerDock\u0022,\u0022name\u0022:\u0022Mixer\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022LibraryManagerDock\u0022,\u0022name\u0022:\u0022Library Manager\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAAD0wAAAjMA/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022Inspector\u0022,\u0022name\u0022:\u0022Inspector\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAADOQAAAcgA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAABmwAACjQA/////wEAAAABAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}},\u0022toolWindowManagerStateFormat\u0022:1}",
+    "Timeout": 1743865883,
     "DeleteAt": 0
   },
   "SceneView.Viewport0.Settings": {
-    "Value": "{\u0022CameraPosition\u0022:\u0022-199.0128,790.1172,504.4004\u0022,\u0022CameraRotation\u0022:\u0022-0.6148907,0.1496513,0.7523222,0.1830993\u0022,\u0022View\u0022:0,\u0022RenderMode\u0022:0,\u0022WireframeMode\u0022:false,\u0022EnablePostProcessing\u0022:true,\u0022EnablePrefabLighting\u0022:true,\u0022ShowGrid\u0022:true,\u0022GridOpacity\u0022:0.2,\u0022GridAxis\u0022:0,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1743808727,
+    "Value": "{\u0022CameraPosition\u0022:\u0022-2950.203,-7486.934,334.9978\u0022,\u0022CameraRotation\u0022:\u00220.1661655,0.01781992,-0.9803157,0.105131\u0022,\u0022View\u0022:0,\u0022RenderMode\u0022:0,\u0022WireframeMode\u0022:false,\u0022EnablePostProcessing\u0022:true,\u0022EnablePrefabLighting\u0022:true,\u0022ShowGrid\u0022:true,\u0022GridOpacity\u0022:0.2,\u0022GridAxis\u0022:0,\u0022CameraOrthoHeight\u0022:1000}",
+    "Timeout": 1743866080,
     "DeleteAt": 0
   },
   "gizmo.settings": {
     "Value": "{\u0022EditMode\u0022:\u0022position\u0022,\u0022Selection\u0022:true,\u0022ViewMode\u0022:\u00223d\u0022,\u0022GizmosEnabled\u0022:true,\u0022GizmoScale\u0022:1,\u0022GridSpacing\u0022:32,\u0022SnapToGrid\u0022:false,\u0022SnapToAngles\u0022:true,\u0022AngleSpacing\u0022:15,\u0022GlobalSpace\u0022:false,\u0022DebugActionGraphs\u0022:false}",
-    "Timeout": 1743808726,
+    "Timeout": 1743865855,
     "DeleteAt": 0
   },
   "SceneView.Layout": {
     "Value": "{\u0022Layout\u0022:0,\u0022SplitterState\u0022:[]}",
-    "Timeout": 1743808727,
+    "Timeout": 1743865875,
     "DeleteAt": 0
   },
   "scene.lastopened": {
-    "Value": "[\u0022scenes/dev.scene\u0022,\u0022prefabs/car.prefab\u0022,\u0022prefabs/props/traffic_cone/traffic_cone.prefab\u0022]",
-    "Timeout": 1743806894,
+    "Value": "[\u0022scenes/dev.scene\u0022]",
+    "Timeout": 1743865875,
     "DeleteAt": 0
   },
   "scenes/dev.scene.Viewport0": {
-    "Value": "{\u0022CameraPosition\u0022:\u0022-199.0128,790.1172,504.4004\u0022,\u0022CameraRotation\u0022:\u0022-0.6148907,0.1496513,0.7523222,0.1830993\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1743808727,
+    "Value": "{\u0022CameraPosition\u0022:\u0022-2950.203,-7486.934,334.9978\u0022,\u0022CameraRotation\u0022:\u00220.1661655,0.01781992,-0.9803157,0.105131\u0022,\u0022CameraOrthoHeight\u0022:1000}",
+    "Timeout": 1743866080,
     "DeleteAt": 0
   },
   ".Viewport0": {
-    "Value": "{\u0022CameraPosition\u0022:\u0022-150.0217,-163.551,82.95071\u0022,\u0022CameraRotation\u0022:\u0022-0.04147486,0.07506948,0.4818069,0.8720703\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1743808702,
+    "Value": "{\u0022CameraPosition\u0022:\u00221407.056,276.768,215.1046\u0022,\u0022CameraRotation\u0022:\u0022-0.06730642,0.1210249,0.4813483,0.865521\u0022,\u0022CameraOrthoHeight\u0022:1000}",
+    "Timeout": 1743856017,
     "DeleteAt": 0
   },
   "expand.3ee1c9f4-07be-4e0b-8b23-67bee2d8ec8a.ChromaticAberration": {
@@ -56,7 +56,7 @@
   },
   "expand.34b560b8-de54-41e8-83e1-24c23923adf4.Wheel": {
     "Value": "false",
-    "Timeout": 1743806005,
+    "Timeout": 1743849062,
     "DeleteAt": 0
   },
   "AssetBrowser.Material.HistoryIdx": {
@@ -86,27 +86,22 @@
   },
   "AssetLocations.ShowBaseContent": {
     "Value": "true",
-    "Timeout": 1743808435,
+    "Timeout": 1743865856,
     "DeleteAt": 0
   },
   "AssetBrowser.Model.History": {
     "Value": "[\u0022C:\\\\Users\\\\harmo\\\\Documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\Assets\u0022,\u0022c:\\\\users\\\\harmo\\\\documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\assets\\\\cars\\\\digby_voyager\\\\models\u0022,\u0022c:\\\\users\\\\harmo\\\\documents\\\\s\\u0026box projects\\\\sbox-vehicle-test\\\\assets\\\\cars\\\\digby_voyager\\\\models\u0022]",
-    "Timeout": 1743806996,
+    "Timeout": 1743851755,
     "DeleteAt": 0
   },
   "AssetBrowser.Model.HistoryIdx": {
     "Value": "2",
-    "Timeout": 1743806996,
+    "Timeout": 1743851755,
     "DeleteAt": 0
   },
   "expand.31327f0a-99ab-4657-bc5a-9271069b8f1c.Wheel": {
     "Value": "false",
     "Timeout": 1743803610,
-    "DeleteAt": 0
-  },
-  "expand.00000000-0000-0000-0000-000000000000.Wheel": {
-    "Value": "false",
-    "Timeout": 1743806439,
     "DeleteAt": 0
   },
   "expand.c2cb22b6-f9ee-4e95-abe2-6cb3e7489982.WheelMover": {
@@ -121,42 +116,42 @@
   },
   "expand.54b37260-aeb5-45fc-9ad0-e9da07e3342b.SkinnedModelRenderer": {
     "Value": "false",
-    "Timeout": 1743801960,
+    "Timeout": 1743850771,
     "DeleteAt": 0
   },
   "prefabs/car.prefab.Viewport0": {
     "Value": "{\u0022CameraPosition\u0022:\u0022-9.42519,-106.4303,-17.49009\u0022,\u0022CameraRotation\u0022:\u00220.01494687,-0.0131311,0.7511166,0.6598697\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1743808727,
+    "Timeout": 1743865875,
     "DeleteAt": 0
   },
   "prefabs/props/traffic_cone/traffic_cone.prefab.Viewport0": {
     "Value": "{\u0022CameraPosition\u0022:\u0022-14.93654,-13.93654,30.70925\u0022,\u0022CameraRotation\u0022:\u0022-0.1464466,0.3535534,0.3535534,0.8535534\u0022,\u0022CameraOrthoHeight\u0022:1000}",
-    "Timeout": 1743808726,
+    "Timeout": 1743855822,
     "DeleteAt": 0
   },
   "expand.27ebc090-91b9-4e30-8f47-ea2c60f87e39.HapticController": {
     "Value": "false",
-    "Timeout": 1743806739,
+    "Timeout": 1743865859,
     "DeleteAt": 0
   },
   "expand.27ebc090-91b9-4e30-8f47-ea2c60f87e39.ColorPicker": {
     "Value": "false",
-    "Timeout": 1743806739,
+    "Timeout": 1743865859,
     "DeleteAt": 0
   },
   "expand.27ebc090-91b9-4e30-8f47-ea2c60f87e39.Car": {
     "Value": "false",
-    "Timeout": 1743806739,
+    "Timeout": 1743865859,
     "DeleteAt": 0
   },
   "expand.27ebc090-91b9-4e30-8f47-ea2c60f87e39.ModelRenderer": {
     "Value": "false",
-    "Timeout": 1743806739,
+    "Timeout": 1743865859,
     "DeleteAt": 0
   },
   "expand.27ebc090-91b9-4e30-8f47-ea2c60f87e39.Rigidbody": {
     "Value": "false",
-    "Timeout": 1743806739,
+    "Timeout": 1743865859,
     "DeleteAt": 0
   },
   "AssetBrowser.Surface Description.History": {
@@ -171,22 +166,22 @@
   },
   "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.HapticController": {
     "Value": "false",
-    "Timeout": 1743807376,
+    "Timeout": 1743865903,
     "DeleteAt": 0
   },
   "expand.00000000-0000-0000-0000-000000000000.ModelRenderer": {
     "Value": "false",
-    "Timeout": 1743806188,
+    "Timeout": 1743850445,
     "DeleteAt": 0
   },
   "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.Rigidbody": {
     "Value": "false",
-    "Timeout": 1743807376,
+    "Timeout": 1743865903,
     "DeleteAt": 0
   },
-  "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.KnockOnContact": {
+  "expand.edd5e394-60f5-49ea-9e74-ad09c6df8e6a.OrbitCamera": {
     "Value": "false",
-    "Timeout": 1743807376,
+    "Timeout": 1743851274,
     "DeleteAt": 0
   },
   "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.Steering": {
@@ -202,6 +197,31 @@
   "Window.SboxHammer.Dock": {
     "Value": "{\u0022floatingWindows\u0022:[],\u0022mainWrapper\u0022:{\u0022geometry\u0022:\u0022AdnQywADAAAAAAAAAAAAAAAABcoAAALkAAAAAAAAAAAAAAXKAAAC5AAAAAAAAAAABgAAAAAAAAAAAAAABcoAAALk\u0022,\u0022splitter\u0022:{\u0022items\u0022:[{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Tool Properties\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Active Material\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAABaAAAAH8A/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022},{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Map View\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022HammerAssetBrowser\u0022,\u0022name\u0022:\u0022Asset Browser\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022HammerCloudBrowser\u0022,\u0022name\u0022:\u0022Cloud Browser\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAADsQAAAfYA/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022},{\u0022items\u0022:[{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Outliner\u0022},{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Selection Sets\u0022}],\u0022type\u0022:\u0022area\u0022},{\u0022currentIndex\u0022:0,\u0022objects\u0022:[{\u0022data\u0022:null,\u0022managedType\u0022:\u0022\u0022,\u0022name\u0022:\u0022Object Properties\u0022}],\u0022type\u0022:\u0022area\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAACAAAA8AAAAPAA/////wEAAAACAA==\u0022,\u0022type\u0022:\u0022splitter\u0022}],\u0022state\u0022:\u0022AAAA/wAAAAEAAAADAAABYgAABFMAAAFqAP////8BAAAAAQA=\u0022,\u0022type\u0022:\u0022splitter\u0022}},\u0022toolWindowManagerStateFormat\u0022:1}",
     "Timeout": 1743808727,
+    "DeleteAt": 0
+  },
+  "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.ModelCollider": {
+    "Value": "false",
+    "Timeout": 1743865903,
+    "DeleteAt": 0
+  },
+  "expand.b0b8a75a-71d4-48a8-b1a3-9991902b7277.ColorPicker": {
+    "Value": "false",
+    "Timeout": 1743865903,
+    "DeleteAt": 0
+  },
+  "expand.edd5e394-60f5-49ea-9e74-ad09c6df8e6a.Rigidbody": {
+    "Value": "false",
+    "Timeout": 1743851542,
+    "DeleteAt": 0
+  },
+  "expand.edd5e394-60f5-49ea-9e74-ad09c6df8e6a.Car": {
+    "Value": "false",
+    "Timeout": 1743851542,
+    "DeleteAt": 0
+  },
+  "expand.edd5e394-60f5-49ea-9e74-ad09c6df8e6a.KnockOnContact": {
+    "Value": "false",
+    "Timeout": 1743851542,
     "DeleteAt": 0
   }
 }

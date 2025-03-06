@@ -17,6 +17,7 @@ public sealed class Car : Component
 	[Property, Group( "Vehicle" )] public float DecelerationRate { get; set; } = 0.5f;
 	[Property, Group( "Vehicle" )] public float BrakingRate { get; set; } = 2.0f;
 	[Property] public GameObject CameraTarget { get; set; }
+	[Property] public float TerminalVelocity { get; set; } = 1000f;
 
 	private List<Wheel> _wheels;
 
@@ -65,6 +66,11 @@ public sealed class Car : Component
 		{
 			var z = Rigidbody.Velocity.z;
 			Rigidbody.Velocity = Vector3.Zero.WithZ( z );
+		}
+
+		if (Rigidbody.Velocity.Length > TerminalVelocity)
+		{
+			Rigidbody.Velocity = Rigidbody.Velocity.Normal * TerminalVelocity;
 		}
 	}
 }
