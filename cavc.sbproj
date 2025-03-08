@@ -1,0 +1,13 @@
+{
+  "Title": "Clearly A Vehicle Controller",
+  "Type": "library",
+  "Org": "clearly",
+  "Ident": "cavc",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {}
+}

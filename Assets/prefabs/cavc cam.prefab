@@ -1,0 +1,63 @@
+{
+  "RootObject": {
+    "__guid": "7ebb8afb-4003-425e-9a34-69147ecbac7c",
+    "Flags": 0,
+    "Name": "CAVC Camera",
+    "Position": "421.7877,77.36612,366.0524",
+    "Tags": "maincamera",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "Sandbox.CameraComponent",
+        "__guid": "8bbc7c36-db95-45d0-a5ea-53a144c4af16",
+        "BackgroundColor": "0.33333,0.46275,0.52157,1",
+        "ClearFlags": "All",
+        "FieldOfView": 60,
+        "FovAxis": "Horizontal",
+        "IsMainCamera": true,
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "Orthographic": false,
+        "OrthographicHeight": 1204,
+        "Priority": 1,
+        "RenderExcludeTags": "",
+        "RenderTags": "",
+        "TargetEye": "None",
+        "Viewport": "0,0,1,1",
+        "ZFar": 10000,
+        "ZNear": 10
+      },
+      {
+        "__type": "RacingGame.OrbitCamera",
+        "__guid": "8cdd46e8-2847-4608-b34b-8b40e5b4e07a",
+        "Distance": 256,
+        "Height": 32,
+        "LookSensitivity": 5,
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "PivotRate": 90,
+        "PositionSensitivity": 5,
+        "PullbackRange": "0 800",
+        "PullbackRate": 0.05,
+        "ResetDebounce": 3,
+        "ResetLerpTime": 2.5,
+        "RotationSensitivity": 5
+      }
+    ]
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "DontBreakAsTemplate": false,
+  "ResourceVersion": 1,
+  "__references": [],
+  "__version": 1
+}

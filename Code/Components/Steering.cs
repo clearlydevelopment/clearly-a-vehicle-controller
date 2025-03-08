@@ -18,6 +18,12 @@ public sealed class Steering : Component
 		if ( IsProxy )
 			return;
 
+		var car = GameObject.GetComponentInParent<Car>();
+		if ( car == null )
+			return;
+		if (car.CanMove == false)
+			return;
+
 		foreach ( var wheel in Wheels )
 		{
 			var targetRotation = Rotation.FromYaw( MaxSteeringAngle * Input.AnalogMove.y ) * Rotation.From( Offset );

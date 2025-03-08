@@ -19,6 +19,9 @@ public sealed class Car : Component
 	[Property] public GameObject CameraTarget { get; set; }
 	[Property] public float TerminalVelocity { get; set; } = 1000f;
 
+	[Property, Group( "Controls" )] public bool CanMove { get; set; } = false;
+	[Property, Group( "Controls" )] public bool IsLocked { get; set; } = false;
+
 	private List<Wheel> _wheels;
 
 	private static List<Car> All { get; } = new();
@@ -44,6 +47,12 @@ public sealed class Car : Component
 
 		float verticalInput = Input.AnalogMove.x;
 		float targetTorque = verticalInput * Torque;
+
+		if (!CanMove)
+		{
+			verticalInput = 0f;
+			targetTorque = 0f;
+		}
 
 		bool isBraking = Math.Sign( verticalInput * _currentTorque ) == -1;
 		bool isDecelerating = verticalInput == 0;
