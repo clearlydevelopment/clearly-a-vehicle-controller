@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cavc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d3394c798c76416c5306c9f453cb474f533f372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea3dea48e63492f176ba80c983b76b0c3b34b80")]
 [assembly: System.Reflection.AssemblyProductAttribute("cavc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cavc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
